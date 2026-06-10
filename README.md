@@ -96,12 +96,17 @@ Chase-Bank-Loan-Analysis/
 - **Geographic Map** — Visual breakdown of loan distribution across all US states
 
 ---
+## 🚀 How to Use
+1. Clone or download this repository
+2. Open `CHASE BANK LOAN REPORT.pbix` in Power BI Desktop
+3. Explore the 3 dashboard pages — Summary, Overview, and Details
+4. Use the slicers to filter by State, Grade, Purpose, and Loan Status
 
 ## 👤 Author
 
 **Damilola Buhari Kolawole**  
-Junior Data Analyst | SQL • Power BI • Python  
-📍 Ogun State, Nigeria
+Financial Data Analyst | Business Intelligence Analyst | SQL • Power BI • Python  
+📍 Lagos State, Nigeria
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/)
