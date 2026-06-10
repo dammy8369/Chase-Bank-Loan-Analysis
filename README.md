@@ -117,8 +117,8 @@ Chase-Bank-Loan-Analysis/
 Financial Data Analyst | Business Intelligence Analyst | SQL • Power BI • Python  
 📍 Lagos State, Nigeria
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/damilola-buhari-113571290)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/dammy8369)
 
 ---
 
