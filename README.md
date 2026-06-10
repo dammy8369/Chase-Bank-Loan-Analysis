@@ -73,18 +73,16 @@ A granular, row-level view of individual loan records with key fields including 
 ## 📁 Repository Structure
 
 ```
-chase-bank-loan-report/
+Chase-Bank-Loan-Analysis/
 │
 ├── README.md
-├── visuals/
-│   ├── summary.png
-│   ├── overview.png
-│   └── details.png
-├── queries/
-│   ├── data_extraction.sql
-│   ├── kpi_metrics.sql
-│   └── loan_analysis.sql
-└── chase_bank_loan_report.pbix
+├── CHASE VISUAL SUMMARY.jpg
+├── CHASE VISUAL OVERVIEW.jpg
+├── CHASE VISUAL DETAILS.jpg
+├── CHASE BANK LOAN REPORT.pbix
+├── CHASE BANK LOAN REPORT.pdf
+├── Chase_Bank_financial_loan_Data...
+└── chase_bank_loan_queries.sql
 ```
 
 ---
