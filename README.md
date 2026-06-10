@@ -11,7 +11,7 @@ A comprehensive loan analytics dashboard built with **SQL** and **Power BI**, an
 ## 📊 Dashboard Pages
 
 ### 1. Summary
-![Summary Page](visuals/summary.png)
+![Summary Page](CHASE VISUAL SUMMARY.jpg)
 
 A high-level overview of the entire loan portfolio, including good vs bad loan classification and a detailed loan status breakdown table.
 
