@@ -18,14 +18,14 @@ A high-level overview of the entire loan portfolio, including good vs bad loan c
 ---
 
 ### 2. Overview
-![Overview Page](visuals/overview.png)
+![Overview Page](CHASE%20VISUAL%20OVERVIEW.jpg)
 
 Trend and distribution analysis across multiple dimensions — monthly performance, geographic spread, loan term, employment length, loan purpose, and home ownership.
 
 ---
 
 ### 3. Details
-![Details Page](visuals/details.png)
+![Details Page](CHASE%20VISUAL%20DETAILS.jpg)
 
 A granular, row-level view of individual loan records with key fields including loan purpose, home ownership, grade, issue date, funded amount, interest rate, installment, and amount received.
 
