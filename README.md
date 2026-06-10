@@ -102,6 +102,15 @@ Chase-Bank-Loan-Analysis/
 3. Explore the 3 dashboard pages — Summary, Overview, and Details
 4. Use the slicers to filter by State, Grade, Purpose, and Loan Status
 
+---
+## 🎯 Skills Demonstrated
+- Data extraction and transformation using SQL
+- Data modelling and relationship building in Power BI
+- DAX measures for KPI calculations (MTD, MoM, Good/Bad Loan)
+- Interactive dashboard design and storytelling
+- Business insight generation from financial data
+
+---
 ## 👤 Author
 
 **Damilola Buhari Kolawole**  
